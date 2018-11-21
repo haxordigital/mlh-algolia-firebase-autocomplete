@@ -1,0 +1,30 @@
+[
+	{
+		"name":"Hack the 6ix",
+		"date": "August 24-26",
+		"city": "Toronto",
+		"country": "Canada",
+		"director": "John States"
+	},
+	{
+		"name":"HackMTY",
+		"date": "August 25-26", 
+		"city": "Monterrey",
+		"country": "Mexico",
+		"director": "Sally Jane"
+	},
+	{
+		"name":"ByteHacks",
+		"date": "September 1-2", 
+		"city": "New York city",
+		"country": "United States of America",
+		"director": "Jack Doe" 
+	},
+	{
+		"name":"MedHacks",
+		"date": "September 7-9",
+		"city": "Baltimore",
+		"country": "United States of America",
+		"director": "Rachel Diaz"
+	}
+]

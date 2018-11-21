@@ -1,0 +1,16 @@
+{
+  "name": "algolia-autocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^3.30.0",
+    "dotenv": "^6.1.0",
+    "firebase": "^5.5.7"
+  }
+}
